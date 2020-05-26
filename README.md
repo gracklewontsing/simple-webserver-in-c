@@ -1,1 +1,2 @@
-# simple-webserver-in-c
+# deployment
+run the server.c file on root
